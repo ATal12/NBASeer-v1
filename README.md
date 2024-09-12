@@ -3,10 +3,15 @@ This speech-to-speech AI bot is capable of interacting with humans via spoken au
  
 WRITTEN BY AYUSH TALUKDER, MCPS BLAIR HIGH SCHOOL
 VERSION 1: AUGUST 2024
-## CODE PIPELINE:
-SPEECH-TO-TEXT TO TRANSCRIBE SPOKEN USER QUERIES (WHISPER)
-A SQL DATABASE OF NBA STATISTIC AND CODE TO QUERY SQL DB
-AN ADVANCED TEXT TO SQL LLM FOR CONVERTING TEXT TO SQL
-AN SLM TO CONVERT THE SQL RESULTS TO A NARRATIVE STYLE, FOR HUMANS TO UNDERSTAND THE ANSWERS IN A MORE NATURALLY CONSUMABLE MANNER
-TTS TO CONVERT THE FINAL LLM RESPONSE TO THE USER QUERY INTO SPEECH
-CUSTOM DATA PRE AND POST-PROCESSING FOR DATA NORMALIZATION ACROSS MULTIPLE STEPS IN THE PIPELINE 
+## Code Overview:
+The code uses Whisper to conduct speech-to-text and transcribe spoken user queries
+It gets data from a SQL database of NBA team statistics
+The code then feeds the text prompt into a text to SQL LLM to understand the prompt and get the data.
+After, it uses an SLM to convert the SQL results to text so that the response is understandable to the person who asked the question.
+Finally, it uses text-to-speech to convert the final text to a spoken LLM response, answering the question.
+
+
+### Models Used:
+Whisper for speech-to-text
+llamaCPP sql coder for text-to-SQL
+gTTS for text-to-speech
