@@ -1,4 +1,4 @@
-![Gemini_Generated_Image_e9vmise9vmise9vm](https://github.com/user-attachments/assets/206edd7d-e948-4b3f-a6d0-c23651518f4b)\|height="200" width="200" ></a>
+![Gemini_Generated_Image_e9vmise9vmise9vm](https://github.com/user-attachments/assets/206edd7d-e948-4b3f-a6d0-c23651518f4b| width="200")
 
 # NBASeer-v1
 This speech-to-speech AI bot is capable of interacting with humans via spoken audio and answering basic questions about NBA teams and their statistics. It uses an SQL database to answer questions with team data. The repo contains the python notebook and the model demos as mp3 filesand
