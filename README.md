@@ -26,7 +26,8 @@ gTTS for text-to-speech
 
 ## Audio Examples:
 
+https://github.com/user-attachments/assets/31657c4a-9120-48bf-b09d-bc8ac9c1bda5
 
-https://github.com/user-attachments/assets/55bec114-153c-47d0-9b93-82ef1e6efe23
+
 
 
