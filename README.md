@@ -23,3 +23,10 @@ Whisper for speech-to-text
 LlamaCPP sql coder for text-to-SQL
 
 gTTS for text-to-speech
+
+## Audio Examples:
+
+
+https://github.com/user-attachments/assets/55bec114-153c-47d0-9b93-82ef1e6efe23
+
+
