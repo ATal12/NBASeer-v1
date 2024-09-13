@@ -1,4 +1,4 @@
-![](https://github.com/user-attachments/assets/206edd7d-e948-4b3f-a6d0-c23651518f4b = 250x250)
+<img src= "https://github.com/user-attachments/assets/aa8943fb-857b-4740-8593-9d37800cf036"
 
 # NBASeer-v1
 This speech-to-speech AI bot is capable of interacting with humans via spoken audio and answering basic questions about NBA teams and their statistics. It uses an SQL database to answer questions with team data. The repo contains the python notebook and the model demos as mp3 filesand
