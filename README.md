@@ -29,5 +29,24 @@ gTTS for text-to-speech
 https://github.com/user-attachments/assets/31657c4a-9120-48bf-b09d-bc8ac9c1bda5
 
 
+https://github.com/user-attachments/assets/5e54d61e-6efd-4140-ab74-2472d09ba4ea
 
+
+https://github.com/user-attachments/assets/68218f82-c247-420b-be1a-57a34ff56fac
+
+
+https://github.com/user-attachments/assets/cc1af1e2-c83a-4514-ac19-0d346f39a2e9
+
+
+https://github.com/user-attachments/assets/06b1f853-fda2-4a61-82f5-7a9949f8eb26
+
+
+
+
+https://github.com/user-attachments/assets/54472799-0ffe-4af9-8e79-7cd36eb0f5bc
+
+
+
+
+https://github.com/user-attachments/assets/370ae509-de00-46e0-aab2-78988f89b5dc
 
