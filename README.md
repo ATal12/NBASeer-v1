@@ -1,8 +1,10 @@
 <img src="https://github.com/user-attachments/assets/09270bcb-6e78-41c6-9d64-2c0300ab4145"
 align left width=25% height=25%> 
 # NBASeer-v1
-This speech-to-speech AI bot is capable of interacting with humans via spoken audio and answering basic questions about NBA teams and their statistics. It uses an SQL database to answer questions with team data. The repo contains the python notebook and the model demos as mp3 filesand
- 
+This speech-to-speech AI bot is capable of interacting with humans via spoken audio and answering basic questions about NBA teams and their statistics. It uses an SQL database to answer questions with team data. The repo contains the Python notebook and the model demos as MP3 files. 
+
+I did this project because I wanted to make a voice-activated NBA stat assistant. As an NBA stat nerd myself, I would personally love to ask an AI a question and receive a full statistical analysis, which means a lot less digging and sifting through data is needed on my part. I'm sure there are others like me, so I created this tool for fellow enthusiasts.
+
 WRITTEN BY AYUSH TALUKDER, MCPS BLAIR HIGH SCHOOL
 VERSION 1: AUGUST 2024
 ## Code Overview:
