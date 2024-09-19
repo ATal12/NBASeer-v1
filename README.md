@@ -7,6 +7,13 @@ I did this project because I wanted to make a voice-activated NBA stat assistant
 
 WRITTEN BY AYUSH TALUKDER, MCPS BLAIR HIGH SCHOOL
 VERSION 1: AUGUST 2024
+
+## Video Examples (with UI):
+
+
+https://github.com/user-attachments/assets/55ca819f-f984-4ca2-af07-594b08482cc9
+
+
 ## Code Overview:
 The code uses Whisper to conduct speech-to-text and transcribe spoken user queries
 
@@ -25,10 +32,6 @@ Whisper for speech-to-text
 LlamaCPP sql coder for text-to-SQL
 
 gTTS for text-to-speech
-## Video Examples (with UI):
-
-
-https://github.com/user-attachments/assets/55ca819f-f984-4ca2-af07-594b08482cc9
 
 
 ## Audio Examples:
