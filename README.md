@@ -11,6 +11,8 @@ VERSION 1: AUGUST 2024
 ## Video Examples (with UI):
 
 
+
+
 https://github.com/user-attachments/assets/55ca819f-f984-4ca2-af07-594b08482cc9
 
 
@@ -29,7 +31,9 @@ Finally, it uses text-to-speech to convert the final text to a spoken LLM respon
 ### Models Used:
 Whisper for speech-to-text
 
-LlamaCPP sql coder for text-to-SQL
+V1 used Llama3-sqlcoder-8b for text-to-SQL; the latest version, v2 uses Qwen2.5-Coder -7B.
+
+Google Gemma2–2B was initially used for SQL-to-text, but recently, I changed to Qwen2.5 for interpreting the SQL results back into text. 
 
 gTTS for text-to-speech
 
